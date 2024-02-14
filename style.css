@@ -1,0 +1,128 @@
+body{
+    margin:0;
+    padding:0; 
+}
+
+.front{
+    margin:0;
+    padding:0; 
+    height: 860px;
+    background-image:url("https://c1.wallpaperflare.com/preview/127/366/443/library-book-bookshelf-read.jpg");
+   /* background-image:url("https://t3.ftcdn.net/jpg/06/25/25/60/360_F_625256025_ohJcE1pPJwzbRY0oUl1LvJSfWiKb1CMR.jpg") ;*/
+}
+h1{
+    background-color: #C7B7A3;
+    margin:0;
+    padding:15px;
+    color: #030637;
+    font-family: "Lucida Handwriting", cursive;
+}
+h2{
+    background-color: #C7B7A3;
+    margin:0;
+    padding:15px;
+    color: #030637;
+    font-family: "Lucida Handwriting", cursive;
+}
+.navbar ul{
+     list-style:none;
+     background: #FDF0D1;
+     padding:0;
+     margin:0;
+     text-align: right;
+}
+
+.intro{
+
+    padding: 20px 25px;
+    
+    margin-top: 100px;
+
+    background-color:#561C24;
+    border-radius: 20%;
+    color: blanchedalmond;
+    font-size: 2rem;
+    margin-bottom: 0px;
+}
+
+.navbar li{
+    display: inline-block;
+   
+}
+.navbar a{
+    text-decoration:none;
+    color:;
+    width: 90px;
+    display:block;
+    padding:20px 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.navbar a:hover{
+    background:#AC7D88;
+}
+
+.socialmedia{
+    padding:10px 0px 0px 0px;
+}
+.socialmedia a{
+   padding:10px;
+   border-radius: 30%;
+}
+.socialmedia a:hover{
+    background-color: #AC7D88;
+    transition: 0.5s;
+}
+
+footer {
+    margin:0;
+   
+    background-color: #FDF0D1;
+    padding: 10px;
+    text-align: center;
+}
+
+.about{
+    background-color: #E8D8C4; 
+}
+
+.aboutcontent{
+    padding: 0px 20px;
+    font-size: 1.4em;
+    display:inline-block;
+}
+img{
+    width:402px;
+    padding: 0px 20px;
+    margin-top: 20px;
+}
+.aboutdiv{
+    display:flex;
+}
+p{
+    font-family: "georgia", serif;
+    font-size: 1em;
+}
+.books{
+    background-color: #E8D8C4; 
+}
+.books img{
+    padding-left: 140px;
+    width: 200px;
+}
+.books h4{
+    padding-left: 200px;
+    margin-bottom: 0px;
+
+}
+
+.contact{
+    background-color: #E8D8C4; 
+}
+
+.aboutcontent{
+    padding: 0px 20px;
+    font-size: 1.4em;
+    display:inline-block;
+}
